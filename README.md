@@ -5,4 +5,4 @@ A Terminal tool for converting JSON to CSV file formats.
 -         go run .
 
 
-![J2C](https://github.com/osag1e/j2c/blob/main/image/j2c.png)
+![j2c](https://github.com/osag1e/j2c/blob/main/j2c.png)

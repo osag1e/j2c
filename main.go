@@ -15,7 +15,7 @@ func main() {
  __  / /__/ // /     
 / /_/ // __// /___   
 \____//____/\____/                      
-    `
+`
 	fmt.Printf("%s%sEnter JSON file path:%s\n", greenColour, j2cArt, resetColour)
 	var jsonFilePath string
 	_, err := fmt.Scanln(&jsonFilePath)
